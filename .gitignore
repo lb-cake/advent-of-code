@@ -1,0 +1,23 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Testing
+.coverage
+*.cover
+*.log
+nosetests.xml
+test_*.py
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+*.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
